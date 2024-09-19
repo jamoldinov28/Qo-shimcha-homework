@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.card__box{
+      width: 400px;
+      height: 400px;
+      background: lightgrey;
+      margin-top: 100px;
+      margin-left: 500px;
+}
+.card__form{
+             text-align: center;
+             font-weight: 900;
+             color: blue;
+}
+.card__number{
+               margin-top: 30px;
+               margin-left: 25px;
+               font-weight: 200;
+}                  
+.card__nubers{
+               width: 350px;
+               margin-top: 5px;
+               margin-left: 27px;
+               padding: 5px;
+            
+}
+.card__holder{
+               margin-top: 15px;
+               margin-left: 25px;
+               font-weight: 200;
+}
+.card__coding{
+                width: 350px;
+                margin-top: 5px;
+                margin-left: 27px;
+                padding: 5px;
+}
+.card__date{
+             margin-top: 15px;
+             margin-left: 25px;
+             font-weight: 200; 
+}
+.card__year{
+             width: 350px;
+             margin-top: 5px;
+             margin-left: 27px;
+             padding: 5px;
+}
+.card__cvc{
+            margin-top: 15px;
+            margin-left: 25px;
+            font-weight: 200; 
+} 
+.card__code{
+             width: 350px;
+             margin-top: 5px;
+             margin-left: 27px;
+             padding: 5px;
+}
+.card__btn{
+            width: 350px;
+            margin-left: 25px;
+            margin-top: 30px;
+            padding:6px;
+            background: blue;
+            color: white;
+}
